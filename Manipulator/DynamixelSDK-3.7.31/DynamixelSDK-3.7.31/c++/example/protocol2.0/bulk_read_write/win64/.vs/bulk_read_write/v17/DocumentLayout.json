@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ndib8\\Desktop\\ROB-450-Ford\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\bulk_read_write\\win64\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F90CF0-0FBA-4884-B748-400030E52C55}|bulk_read_write\\bulk_read_write.vcxproj|C:\\Users\\ndib8\\Desktop\\ROB-450-Ford\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\bulk_read_write\\bulk_read_write.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bulk_read_write.cpp",
+              "DocumentMoniker": "C:\\Users\\ndib8\\Desktop\\ROB-450-Ford\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\bulk_read_write\\bulk_read_write.cpp",
+              "RelativeDocumentMoniker": "..\\bulk_read_write.cpp",
+              "ToolTip": "C:\\Users\\ndib8\\Desktop\\ROB-450-Ford\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\bulk_read_write\\bulk_read_write.cpp",
+              "RelativeToolTip": "..\\bulk_read_write.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T17:50:30.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

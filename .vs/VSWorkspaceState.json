@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Manipulator",
+    "\\Manipulator\\DynamixelSDK-3.7.31",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\bulk_read_write\\win64",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\read_write",
+    "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\read_write\\win64"
+  ],
+  "SelectedNode": "\\Manipulator\\DynamixelSDK-3.7.31\\DynamixelSDK-3.7.31\\c\u002B\u002B\\example\\protocol2.0\\read_write\\read_write.cpp",
+  "PreviewInSolutionExplorer": false
+}
